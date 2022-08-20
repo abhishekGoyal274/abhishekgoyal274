@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/abhishekgoyal274)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/abhishekgoyal274/CV)**
 
 - 📫 How to reach me **abhishekgoyal274@gmail.com**
 
