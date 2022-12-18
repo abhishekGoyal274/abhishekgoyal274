@@ -53,10 +53,9 @@
 
 ## Connect with me:
 <p align="left">
-
-<a href = "https://www.linkedin.com/in/abhishek-goyal-423443200/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Abhishe30755904"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/abhishekgoyal274/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+    <a href = "https://www.linkedin.com/in/abhishek-goyal-423443200/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+    <a href = "https://twitter.com/Abhishe30755904"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+    <a href = "https://www.instagram.com/abhishekgoyal274/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
 ## ❤ Views and Followers
